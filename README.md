@@ -5,3 +5,4 @@
     2. Administrator or Hotel Manager.
   The Online users are the customers or the staff who can see the news and updates of the Hotel and the Administrator is responsible for updating the Hotel details on computer. Users can also view and book rooms online and ask for various hotel related services. 
   The Administrator is the authorized user who has power to add or edit the updates as well as the Password. The main aim of the entire activity is to automate the process of day to day activities of Hotel like Room activities, Admission of a New Customer, assign a room according to customer’s demand, checkout of a computer and releasing the room and finally compute the bill etc. This software is very useful to the departments for managing their activities.
+  admin login : username : Admin Password:123456
